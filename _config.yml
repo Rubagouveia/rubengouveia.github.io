@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Rúben Gouveia"
   avatar           : "profile.png"
-  bio              : "Assistant Professor @ University of Twente"
-  location         :
+  bio              : "Assistant Professor"
+  location         : "University of Twente"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3Of_dqIAAAAJ&hl=en"
