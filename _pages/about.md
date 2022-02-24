@@ -22,7 +22,7 @@ DRS 2022
 
 MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care
 Maysoon Al-quaran, Dominique Geißler, Ceri Kamoen, Nathalie Overdevest, Marijke van Lune, Iris Weijers, Rúben Gouveia
-CHI 2022 (LBW) [Acceptance Rate: 36% (261/722)]
+CHI 2022 (LBW)
 
 How Are Sports-Trackers Used by Runners? Running-Related Data, Personal Goals, and Self-Tracking in Running. 
 Armagan Karahanoğlu, Rúben Gouveia, Jasper Reenalda, Geke Ludden 
@@ -30,9 +30,9 @@ Sensors.
 
 Activity Tracking in vivo
 Rúben Gouveia, Evangelos Karapanos, Marc Hassenzahl 
-CHI 2018 [Acceptance Rate: 23% (666/2590)]
+CHI 2018
 
 Exploring the design space of glanceable feedback for physical activity trackers
 Rúben Gouveia, Fabio Pereira, Evangelos Karapanos, Sean Munson, Marc Hassenzahl
-Ubicomp 2016 [Acceptance Rate: 26% (101/389)]
+Ubicomp 2016
 
