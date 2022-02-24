@@ -16,23 +16,23 @@ I often publish in top-tier venues in the field of HCI, such as CHI and Ubicomp.
 Select Recent Papers
 ======
 
-Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps (space, space, Enter)
+Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps <br />
 Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.<br />
 DRS 2022
 
-MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care**Enter**
-Maysoon Al-quaran, Dominique Geißler, Ceri Kamoen, Nathalie Overdevest, Marijke van Lune, Iris Weijers, Rúben Gouveia**Enter**
+MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care<br />
+Maysoon Al-quaran, Dominique Geißler, Ceri Kamoen, Nathalie Overdevest, Marijke van Lune, Iris Weijers, Rúben Gouveia<br />
 CHI 2022 (LBW)
 
-How Are Sports-Trackers Used by Runners? Running-Related Data, Personal Goals, and Self-Tracking in Running. **Enter**
-Armagan Karahanoğlu, Rúben Gouveia, Jasper Reenalda, Geke Ludden **Enter**
+How Are Sports-Trackers Used by Runners? Running-Related Data, Personal Goals, and Self-Tracking in Running. <br />
+Armagan Karahanoğlu, Rúben Gouveia, Jasper Reenalda, Geke Ludden <br />
 Sensors.
 
-Activity Tracking in vivo**Enter**
-Rúben Gouveia, Evangelos Karapanos, Marc Hassenzahl **Enter**
+Activity Tracking in vivo<br />
+Rúben Gouveia, Evangelos Karapanos, Marc Hassenzahl <br />
 CHI 2018
 
-Exploring the design space of glanceable feedback for physical activity trackers**Enter**
-Rúben Gouveia, Fabio Pereira, Evangelos Karapanos, Sean Munson, Marc Hassenzahl**Enter**
+Exploring the design space of glanceable feedback for physical activity trackers<br />
+Rúben Gouveia, Fabio Pereira, Evangelos Karapanos, Sean Munson, Marc Hassenzahl<br />
 Ubicomp 2016
 
