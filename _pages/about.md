@@ -16,7 +16,7 @@ I often publish in top-tier venues in the field of HCI, such as CHI and Ubicomp.
 Select Recent Papers
 ======
 
-Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps Enter **Enter**
+Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps (space, space, Enter)
 Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.**Enter**
 DRS 2022
 
