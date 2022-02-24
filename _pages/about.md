@@ -17,7 +17,7 @@ Select Recent Papers
 ======
 
 Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps (space, space, Enter)
-Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.**Enter**
+Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.<br />
 DRS 2022
 
 MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care**Enter**
