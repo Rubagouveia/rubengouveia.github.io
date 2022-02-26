@@ -34,5 +34,7 @@ CHI 2018
 
 Exploring the design space of glanceable feedback for physical activity trackers<br />
 Rúben Gouveia, Fabio Pereira, Evangelos Karapanos, Sean Munson, Marc Hassenzahl<br />
-Ubicomp 2016
+Ubicomp 2016. [pdf](https://rubengouveia.com/papers/Glanceable_Ubicomp16.pdf) | talk slides | publisher
+
+
 
