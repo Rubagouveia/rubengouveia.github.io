@@ -30,7 +30,7 @@ Sensors. [pdf](https://rubengouveia.com/papers/RunningData_Sensors.pdf) | [publi
 
 Activity Tracking in vivo<br />
 Rúben Gouveia, Evangelos Karapanos, Marc Hassenzahl <br />
-CHI 2018. [pdf](https://rubengouveia.com/papers/InVivo_CHI18.pdf) | [talk slides](https://rubengouveia.com/presentations/CHI'18.pdf) | [recording talk](https://youtu.be/kUxWqNg2U70) [publisher](https://dl.acm.org/doi/abs/10.1145/3173574.3173936)
+CHI 2018. [pdf](https://rubengouveia.com/papers/InVivo_CHI18.pdf) | [talk slides](https://rubengouveia.com/presentations/CHI'18.pdf) | [recording talk](https://youtu.be/kUxWqNg2U70) | [publisher](https://dl.acm.org/doi/abs/10.1145/3173574.3173936)
 
 Exploring the design space of glanceable feedback for physical activity trackers<br />
 Rúben Gouveia, Fabio Pereira, Evangelos Karapanos, Sean Munson, Marc Hassenzahl<br />
