@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Rúben Gouveia"
+title                    : #"Rúben Gouveia"
 title_separator          : "-"
-name                     : &name #"Rúben Gouveia"
+name                     : #&name "Rúben Gouveia"
 description              : &description ""
 url                      : https://rubengouveia.com # the base hostname & protocol for your site e.g. "https://rubengouveia.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Rúben Gouveia"
+  name             : # "Rúben Gouveia"
   avatar           : "profile.png"
   bio              : "Assistant Professor <br> Department of Production, Design and Management, University of Twente <br><br><b>PhD's</b>:<br> <a href='https://www.tinaekhtiar.com/'>Tina Ekhtiar</a> <br><a href='https://www.larasiering.nl/'>Lara Siering</a> <br><br><b>Teaching</b>:<br> <a href='https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=202000973&collegejaar=2021&taal=en'>Design for Experience</a> <br><a href='https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201700008&collegejaar=2021&taal=en'>Design and Behaviour Change</a>"
   
