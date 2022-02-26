@@ -83,12 +83,14 @@ author:
   name             : "Rúben Gouveia"
   avatar           : "profile.png"
   bio              : "Assistant Professor <br> Department of Production, Design and Management, University of Twente"
-    
-  location         : "University of Twente"
+  
+ # <br><br><b>PhD's</b>: <a style='color: blue;' href='https://www.tinaekhtiar.com/'>Tina Ekhtiar</a>
+  
+  location         : "Building de Horst, room W254"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=3Of_dqIAAAAJ&hl=en"
-  email            :
+  email            : "r.h.gouveia[at]utwente[dot]nl"
   researchgate     :  "https://www.researchgate.net/profile/Ruben-Gouveia-3"
   uri              :
   bitbucket        :
