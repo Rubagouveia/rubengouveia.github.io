@@ -13,7 +13,7 @@ I am an Assistant Professor at the University of Twente's Department of Design, 
 I often publish in top-tier venues in the field of HCI, such as CHI and Ubicomp. My full list of publications can be found on [google scholar](https://scholar.google.pt/citations?user=3Of_dqIAAAAJ&hl=en).
 
 
-Select Recent Papers [all](https://rubengouveia.com/_pages/publications.md)
+Select Recent Papers [all]((https://www.rubengouveia.com/publications))
 ======
 
 Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps <br />
