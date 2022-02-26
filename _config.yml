@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : #"Rúben Gouveia"
+title                    : "Rúben Gouveia"
 title_separator          : "-"
-name                     : #&name "Rúben Gouveia"
+name                     : &name "Rúben Gouveia"
 description              : &description ""
 url                      : https://rubengouveia.com # the base hostname & protocol for your site e.g. "https://rubengouveia.com"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
