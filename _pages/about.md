@@ -22,7 +22,7 @@ DRS 2022 (conditionally accepted)
 
 MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care<br />
 Maysoon Al-quaran, Dominique Geißler, Ceri Kamoen, Nathalie Overdevest, Marijke van Lune, Iris Weijers, Rúben Gouveia<br />
-CHI 2022 (LBW, conditionally accepted)
+CHI 2022 (LBW). [pdf](https://rubengouveia.com/papers/Necklace_CHI22.pdf)
 
 How Are Sports-Trackers Used by Runners? Running-Related Data, Personal Goals, and Self-Tracking in Running. <br />
 Armagan Karahanoğlu, Rúben Gouveia, Jasper Reenalda, Geke Ludden <br />
