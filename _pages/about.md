@@ -18,7 +18,7 @@ Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -
 
 Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps <br />
 Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.<br />
-DRS 2022 (conditionally accepted)
+DRS 2022 [pdf](https://rubengouveia.com/papers/ReflectionGoals_DRS22.pdf)
 
 MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care<br />
 Maysoon Al-quaran, Dominique Geißler, Ceri Kamoen, Nathalie Overdevest, Marijke van Lune, Iris Weijers, Rúben Gouveia<br />
