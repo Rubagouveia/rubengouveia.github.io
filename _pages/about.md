@@ -16,6 +16,10 @@ I often publish in top-tier venues in the field of HCI, such as CHI and Ubicomp.
 Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -->
 ======
 
+Transitions in Personal Informatics: Investigating Self-Tracking During Moments of Change <br />
+Catrin Feron, Tina Ekhtiar, Rúben Gouveia.<br />
+NordiCHI 2022 (conditionally accepted)
+
 Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps <br />
 Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.<br />
 DRS 2022 [pdf](https://rubengouveia.com/papers/ReflectionGoalSetting_DRS22.pdf)
