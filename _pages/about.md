@@ -18,7 +18,7 @@ Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -
 
 This Watchface Fits with my Tattoos: Investigating Customisation Needs and Preferences in Personal Tracking <br />
 Rúben Gouveia, Daniel Epstein.<br />
-CHI 2023 [pdf](https://rubengouveia.com/papers/chi23-Customisation.pdf)
+CHI 2023 (to appear) [pdf](https://rubengouveia.com/papers/chi23-Customisation.pdf)
 
 Transitions in Personal Informatics: Investigating Self-Tracking During Moments of Change <br />
 Catrin Feron, Tina Ekhtiar, Rúben Gouveia.<br />
