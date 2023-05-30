@@ -16,9 +16,13 @@ I often publish in top-tier venues in the field of HCI, such as CHI and Ubicomp.
 Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -->
 ======
 
+Goals for Goal Setting: A Scoping Review on Personal Informatics <br />
+Tina Ekhtiar, Armagan Karahanoğlu, Rúben Gouveia, Geke Ludden.<br />
+DIS 2023 (to appear)
+
 This Watchface Fits with my Tattoos: Investigating Customisation Needs and Preferences in Personal Tracking <br />
 Rúben Gouveia, Daniel Epstein.<br />
-CHI 2023 (to appear) [pdf](https://rubengouveia.com/papers/chi23-Customisation.pdf)
+CHI 2023 [pdf](https://rubengouveia.com/papers/chi23-Customisation.pdf)
 
 Transitions in Personal Informatics: Investigating Self-Tracking During Moments of Change <br />
 Catrin Feron, Tina Ekhtiar, Rúben Gouveia.<br />
@@ -27,10 +31,6 @@ NordiCHI 2022 [pdf](https://rubengouveia.com/papers/nordichi22-change.pdf)
 Reflection During Goal Setting: An Analysis of Popular Personal Informatics Apps <br />
 Tina Ekhtiar, Rúben Gouveia, Armagan Karahanoğlu, Geke Ludden.<br />
 DRS 2022 [pdf](https://rubengouveia.com/papers/ReflectionGoalSetting_DRS22.pdf)
-
-MoodTurner: A Self-Tracking Smart Jewellery to Support Awareness and Reflection in Sensory Processing Sensitivity Self-Care<br />
-Maysoon Al-quaran, Dominique Geißler, Ceri Kamoen, Nathalie Overdevest, Marijke van Lune, Iris Weijers, Rúben Gouveia<br />
-CHI 2022 (LBW) [pdf](https://rubengouveia.com/papers/Necklace_CHI22.pdf)
 
 How Are Sports-Trackers Used by Runners? Running-Related Data, Personal Goals, and Self-Tracking in Running. <br />
 Armagan Karahanoğlu, Rúben Gouveia, Jasper Reenalda, Geke Ludden <br />
