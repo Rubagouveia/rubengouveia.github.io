@@ -16,7 +16,7 @@ I often publish in top-tier venues in the field of HCI, such as CHI and Ubicomp.
 Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -->
 ======
 
-Goals for Goal Setting: A Scoping Review on Personal Informatics <br />
+Goals for Goal Setting: A Scoping Review on Personal Informatics <br/>
 Tina Ekhtiar, Armagan Karahanoğlu, Rúben Gouveia, Geke Ludden.<br />
 DIS 2023 (to appear)
 
