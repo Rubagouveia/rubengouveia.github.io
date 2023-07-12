@@ -19,6 +19,7 @@ Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -
 Goals for Goal Setting: A Scoping Review on Personal Informatics <br/>
 Tina Ekhtiar, Armagan Karahanoğlu, Rúben Gouveia, Geke Ludden.<br />
 DIS 2023 [pdf](https://rubengouveia.com/papers/Ekhtiar_DIS23.pdf)
+<b>Honorable Mention (Top 5%)</b>
 
 This Watchface Fits with my Tattoos: Investigating Customisation Needs and Preferences in Personal Tracking <br />
 Rúben Gouveia, Daniel Epstein.<br />
