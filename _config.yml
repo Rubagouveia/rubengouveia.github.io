@@ -82,7 +82,9 @@ analytics:
 author:
   name             : # "Rúben Gouveia"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at <br> Faculty of Sciences, University of Lisbon <br><br><b>PhD's</b>:<br> <a href='https://www.tinaekhtiar.com/'>Tina Ekhtiar</a> <br><a href='https://www.larasiering.nl/'>Lara Siering</a> <br><a href='https://people.utwente.nl/n.vanstralen'>Naomi Stralen</a> <br><br><b>Teaching</b>: /* <br> <a href='https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=202000973&collegejaar=2021&taal=en'>Design for Experience</a> <br><a href='https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201700008&collegejaar=2021&taal=en'>Design and Behaviour Change</a> */"
+  bio              : "Assistant Professor at <br> University of Lisbon's Faculty of Sciences <br><br><b>PhD's</b>:<br> <a href='https://www.tinaekhtiar.com/'>Tina Ekhtiar</a> <br><a href='https://www.larasiering.nl/'>Lara Siering</a> <br><a href='https://people.utwente.nl/n.vanstralen'>Naomi Stralen</a> <br><br><b>Teaching</b>: "
+  
+    /* <br> <a href='https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=202000973&collegejaar=2021&taal=en'>Design for Experience</a> <br><a href='https://osiris.utwente.nl/student/OnderwijsCatalogusSelect.do?selectie=cursus&cursus=201700008&collegejaar=2021&taal=en'>Design and Behaviour Change</a> */
   
   location         : "Building C6, room 6.3.17"
   employer         :
