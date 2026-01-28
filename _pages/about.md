@@ -28,7 +28,7 @@ CHI 2026 [pdf](https://rubengouveia.com/papers/chi26c-sub4388-cam-i16.pdf)<br />
 
 Changing Health Goals with Personal Informatics <br/>
 Tina Ekhtiar, Armagan Karahanoğlu, Rúben Gouveia, Geke Ludden.<br />
-DIS 2025 [pdf](https://rubengouveia.com/papers/Ekhtiar_DIS23.pdf)<br />
+DIS 2025 [pdf](https://rubengouveia.com/papers/goals_DIS25.pdf)<br />
 
 Goals for Goal Setting: A Scoping Review on Personal Informatics <br/>
 Tina Ekhtiar, Armagan Karahanoğlu, Rúben Gouveia, Geke Ludden.<br />
