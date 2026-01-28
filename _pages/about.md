@@ -18,12 +18,12 @@ Select Recent Papers <!--- [(all)] (https://www.rubengouveia.com/publications) -
 
 Breaking it Down: Micro Goals in Physical Activity Tracking <br/>
 Rúben Gouveia, Evangelos Karapanos, Christos Themistocleous.<br />
-CHI 2026 [pdf](https://rubengouveia.com/papers/Ekhtiar_DIS23.pdf)<br />
+CHI 2026 [pdf](https://rubengouveia.com/papers/chi26c-sub9519-cam-i16.pdf)<br />
 (to appear)
 
-Goals for Goal Setting: A Scoping Review on Personal Informatics <br/>
+Between Control and Uncertainty: Understanding Self-Tracking Practices in Enigmatic Disease Management <br/>
 Maria Jerónimo, Tiago Guerreiro, Rúben Gouveia.<br />
-CHI 2026 [pdf](https://rubengouveia.com/papers/Ekhtiar_DIS23.pdf)<br />
+CHI 2026 [pdf](https://rubengouveia.com/papers/chi26c-sub4388-cam-i16.pdf)<br />
 (to appear)
 
 Changing Health Goals with Personal Informatics <br/>
